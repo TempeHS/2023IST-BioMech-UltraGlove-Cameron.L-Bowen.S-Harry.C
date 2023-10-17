@@ -1,4 +1,4 @@
 **UltraGlove**
 mario
-cl.gyroscope sensor test 
-bs.accelerometer sensor test
+- cl.gesture sensor test 
+- bs.accelerometer and gyroscope sensor test
