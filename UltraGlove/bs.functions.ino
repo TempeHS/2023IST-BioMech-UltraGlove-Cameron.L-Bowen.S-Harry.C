@@ -16,7 +16,7 @@ void setup() {
     } else {
         Serial.println("Device OK!");
     }
-
+x
     if (0 != config_free_fall_detect()) {
         Serial.println("Fail to configure!");
     } else {

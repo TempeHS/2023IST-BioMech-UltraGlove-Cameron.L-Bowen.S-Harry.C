@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 void accel-gyro setup() {
     Serial.begin(9600);
@@ -29,3 +30,9 @@ void accel-gyro loop() {
 }
 =======
 >>>>>>> 4db8d3a077577f0664ec160b8853c48fc4a2a9bf
+=======
+#include <paj7620.h>
+
+#include <Gesture.h>
+
+>>>>>>> bc68da015997f53ab554717af8c238fe7ed7e132
