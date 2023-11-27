@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 void accel-gyro setup() {
     Serial.begin(9600);
